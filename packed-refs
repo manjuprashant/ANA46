@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled sorted 
+4f5850d348a87e0390e29cc25e1a7e20a6e8fd2b refs/remotes/origin/Notion
+899431c21f39e5710a6dcc9ad416c4f0cb562655 refs/remotes/origin/document_activity
+f72c044de103540de2b6e190b1a352e528d12450 refs/remotes/origin/extraction
+e84f5d96d578f1023c606e0888f695a8cc4426bb refs/remotes/origin/extraction-email
+a5c822cb35d9064a4325b3d6fc7bd8437dfc45b9 refs/remotes/origin/main
+e9ffb6a00b10014f0ab2c1843bc3e39291789880 refs/remotes/origin/root/auth
